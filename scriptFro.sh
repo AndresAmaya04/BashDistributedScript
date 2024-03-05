@@ -8,4 +8,4 @@ apt-get install npm -y
 git clone https://github.com/Hacktiago/Frontend.git --progress
 cd Backend/
 npm install  && echo "------Dependencias instaladas------"
-node server.js
+node script.js
